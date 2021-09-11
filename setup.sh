@@ -1,8 +1,4 @@
 #! /bin/bash
-
-sudo apt install build-essential cmake vim-nox python3-dev -y
-sudo apt install mono-complete golang nodejs default-jdk npm -y
-
 rm -r ~/.vim
 rm ~/.vimrc
 
